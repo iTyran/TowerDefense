@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D36A1412-E6D2-4ECA-BB68-9844980FDE37</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TD</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>76F3C1E0-0B5C-4C89-AF70-1B01761E8591</key>
+		<string>ssh://git_mb/pirate-bay</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>projects/TD/proj.ios/TD.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>76F3C1E0-0B5C-4C89-AF70-1B01761E8591</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://git_mb/pirate-bay</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>76F3C1E0-0B5C-4C89-AF70-1B01761E8591</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>76F3C1E0-0B5C-4C89-AF70-1B01761E8591</string>
+			<key>IDESourceControlWCCName</key>
+			<string>pirate-bay</string>
+		</dict>
+	</array>
+</dict>
+</plist>
